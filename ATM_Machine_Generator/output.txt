@@ -1,0 +1,81 @@
+Welcome to the ATM!
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 1
+Enter PIN: 1234
+Account Balance: $1000.0
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 2
+Enter PIN: 1234
+Enter amount to withdraw: 300
+Withdrawal Successful. New Balance: $700.0
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 3
+Enter PIN: 1234
+Enter amount to deposit: 200
+Deposit Successful. New Balance: $900.0
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 5
+Enter PIN: 1234
+Withdrawal: -$300.0
+Deposit: +$200.0
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 4
+Enter old PIN: 1234
+Enter new PIN: 5678
+PIN changed successfully
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 1
+Enter PIN: 5678
+Account Balance: $900.0
+
+--- ATM Menu ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. View Transaction History
+6. Exit
+Choose an option: 6
+Exiting... Thank you!
